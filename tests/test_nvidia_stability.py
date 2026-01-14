@@ -6,7 +6,7 @@ import os
 
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..', 'src'))
 
-from nvidia_stability import (
+from nvidia_stability import (  # noqa: E402
     DistroDetector,
     GPUDetector,
     PackageManager,
