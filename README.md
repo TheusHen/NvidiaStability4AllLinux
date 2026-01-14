@@ -1,4 +1,4 @@
-![Linus Torvalds to NVIDIA](<.github/assets/Linus Torvalds - Middle Finger.png>)
+<img src=".github/assets/Linus Torvalds - Middle Finger.png" alt="Linus Torvalds to NVIDIA" width="1920">
 
 # NVIDIA Stability for All Linux
 
